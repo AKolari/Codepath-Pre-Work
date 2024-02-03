@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="TonberryContentDescription">Tonberry Friend</string>
+    <string name="ButtonDescription">Click Me :^)</string>
+    <string name="ParagraphText">Hello! My Name is Andi! This is my app! This image is a Tonberry. He says hello</string>
+</resources>
