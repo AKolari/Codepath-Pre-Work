@@ -1,8 +1,8 @@
-# Android Prework - *Hello Worlde*
+# Android Prework - *Hello World*
 
 Submitted by: **Andi Kolari**
 
-**Hello There** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **.5** hours spent in total
 
