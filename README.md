@@ -16,13 +16,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Each Time the button is pressed, the image, and the description text change 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-![CodePathPreWork-ezgif com-optimize](https://github.com/AKolari/Codepath-Pre-Work/assets/90071560/5129e246-a4c8-4ec6-bb76-2d64fa7e77a7)
+![CodePathPreWork-ezgif com-video-to-gif-converter](https://github.com/AKolari/Codepath-Pre-Work/assets/90071560/8ac5f067-85f3-40ef-a4b0-4ece693546ef)
 
 
 GIF created with ...  
