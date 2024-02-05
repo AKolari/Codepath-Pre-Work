@@ -3,4 +3,6 @@
     <string name="TonberryContentDescription">Tonberry Friend</string>
     <string name="ButtonDescription">Click Me :^)</string>
     <string name="ParagraphText">Hello! My Name is Andi! This is my app! This image is a Tonberry. He says hello</string>
+    <string name="ParagraphText1">Hello! My Name is Andi! This is my app! This image is a Clawstrider. He says hello</string>
+    <string name="ParagraphText2">Hello! My Name is Andi! This is my app! This image is an Ewok. He says hello</string>
 </resources>
